@@ -10,6 +10,7 @@
 | Language    | Experience  |
 | ----------- | ----------- |
 | Python      | By far the language I am most familiar and comfortable with |
+| Java        | Ever heard of PTSD? |
 | C#          | I know it I guess |  
 | C++         | We don't talk about this |
 | JavaScript  | Given up in 3 seconds |
