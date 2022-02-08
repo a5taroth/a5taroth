@@ -36,7 +36,7 @@
 
 > That's sussy Baka
 
-  - a5taroth@gmail.com
+  - a5taroth.paperboi@gmail.com
   - [Twitter](https://twitter.com/A5taroth_)
   - [Instagram](https://www.instagram.com/a5taroth_/)
   - [Itch.io](https://a5taroth.itch.io/)
