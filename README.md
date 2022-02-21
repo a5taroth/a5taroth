@@ -2,19 +2,18 @@
 
 ## Things I like
 - Breathing
-- Having my code run first time
 - Understanding how Haskell works 
 - The Rock
 
 ## "Experience"
 | Language    | Experience  |
 | ----------- | ----------- |
-| Python      | By far the language I am most familiar and comfortable with |
-| Java        | Ever heard of PTSD? |
-| C#          | I know it I guess |  
-| C++         | We don't talk about this |
-| JavaScript  | Given up in 3 seconds |
-| Haskell     | Currently Learning |
+| Python      | By far the language I am most familiar and comfortable with. |
+| Java        | Know the basics of it. |
+| C#          | Forgotten much retained little  |  
+| C++         | We don't talk about this. |
+| JavaScript  | Given up in 3 seconds. |
+| Haskell     | Currently Learning. |
 
 ## Past Projects
 - [Dwayne "The Bot" Johnson](https://github.com/a5taroth/the-rock-bot/releases/tag/v1.0)
