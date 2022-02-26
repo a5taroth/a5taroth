@@ -53,10 +53,10 @@ It's a bit of a love-hate relationship NGL.
 ### CONTACT ME @
 &rarr; mash.d3v@gmail.com
 
-&rarr; [Discord](https://discordapp.com/users/944613213146841230)
+&rarr; [Discord](https://discordapp.com/users/634294092435554304)
 
-&rarr; [Twitter](https://twitter.com/mytholtdev/)
+&rarr; [Twitter](https://twitter.com/mash_d3v/)
 
-&rarr; [Instagram](https://instagram.com/mytholtdev/)
+&rarr; [Instagram](https://instagram.com/mash_d3v/)
 
-&rarr; [itch.io](https://mytholt.itch.io/)
+&rarr; [itch.io](https://a5taroth.itch.io/)
