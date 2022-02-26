@@ -1,56 +1,62 @@
-# I'm A5taroth or A5. I do weird stuff.
+# Hey there, I am mytholt! 👋
 
-## Things I like
-- Breathing
-- Understanding how Haskell works 
-- The Rock
+### Languages I "know"
+> Ranked in order of my knowledge of them.
 
-## "Experience"
-| Language    | Experience  |
-| ----------- | ----------- |
-| Python      | By far the language I am most familiar and comfortable with. |
-| Java        | Know the basics of it. |
-| C#          | Forgotten much retained little  |  
-| C++         | We don't talk about this. |
-| JavaScript  | Given up in 3 seconds. |
-| Haskell     | Currently Learning. |
+&rarr; Python  
 
-## Past Projects
-- [Dwayne "The Bot" Johnson](https://github.com/a5taroth/the-rock-bot/releases/tag/v1.0)
-- [Dodge!](https://a5taroth.itch.io/dodge)
-- [A crappy flappy bird remake 🤦](https://github.com/a5taroth/crappy-bird-pygame)
+&rarr; C#      
 
-## Present Projects
-- Sky 
-- Piecing my life together
-- Trying not to die
+&rarr; HTML, CSS
 
-## About me 
-  I am a guy into Computer Science and I do programming as a hobby. 
-  Am I looking to land a job in some big tech company? Not really. 
-  Am I trying to have fun? HELL YEAH!
-  
-## Contact and links
-> Why would you want to contact me though? 🤔
+&rarr; Java
 
-> That's sussy Baka
+&rarr; C++
 
-  - a5taroth.paperboi@gmail.com
-  - [Twitter](https://twitter.com/A5taroth_)
-  - [Instagram](https://www.instagram.com/a5taroth_/)
-  - [Itch.io](https://a5taroth.itch.io/)
+### LIBRARIES I AM "GOOD" AT
+&rarr; [discord.py](
 
-<!--
-**a5taroth/a5taroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&rarr; [hikari](https://www.hikari-py.dev/)
+ 
+&rarr; [hikari-lightbulb](https://pypi.org/project/hikari-lightbulb/)
 
-Here are some ideas to get you started:
+### THINGS I LIKE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&rarr; Playing Badminton.
+
+&rarr; Sipping on some coffee.
+
+&rarr; Having my code run first time.
+
+&rarr; The Rock.
+
+&rarr; [Python](https://www.python.org)
+
+### THINGS I HATE
+
+&rarr; Stubbing my little toe.
+
+&rarr; The fact that this is valid Python code.
+```py
+x, y, z = 5, 23, 1
+
+if 0 < x is not y > z != y != x < y > -27:
+  print("Holy mother of chained comparisons!")
+```
+
+&rarr; Getting errors in my code but I think I might be starting to actually like it.
+
+### RELATIONSHIP STATUS
+Currently taken by [programming](https://en.m.wikipedia.org/wiki/Computer_programming).
+It's a bit of a love-hate relationship NGL.
+
+### CONTACT ME @
+&rarr; mash.d3v@gmail.com
+
+&rarr; [Discord](https://discordapp.com/users/944613213146841230)
+
+&rarr; [Twitter](https://twitter.com/mytholtdev/)
+
+&rarr; [Instagram](https://instagram.com/mytholtdev/)
+
+&rarr; [itch.io](https://mytholt.itch.io/)
