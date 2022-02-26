@@ -14,7 +14,7 @@
 &rarr; C++
 
 ### LIBRARIES I AM "GOOD" AT
-&rarr; [discord.py](
+&rarr; [discord.py](https://pypi.org/project/discord.py/)
 
 &rarr; [hikari](https://www.hikari-py.dev/)
  
