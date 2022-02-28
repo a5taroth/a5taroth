@@ -51,7 +51,7 @@ Currently taken by [programming](https://en.m.wikipedia.org/wiki/Computer_progra
 It's a bit of a love-hate relationship NGL.
 
 ### CONTACT ME @
-&rarr; mash.d3v@gmail.com
+&rarr; m4sh.dev@gmail.com
 
 &rarr; [Discord](https://discordapp.com/users/634294092435554304)
 
