@@ -51,12 +51,12 @@ Currently taken by [programming](https://en.m.wikipedia.org/wiki/Computer_progra
 It's a bit of a love-hate relationship NGL.
 
 ### CONTACT ME @
-&rarr; m4sh.dev@gmail.com
+&rarr; leftomash@gmail.com
 
 &rarr; [Discord](https://discordapp.com/users/634294092435554304)
 
-&rarr; [Twitter](https://twitter.com/mash_d3v/)
+&rarr; [Twitter](https://twitter.com/leftomash/)
 
-&rarr; [Instagram](https://instagram.com/mash_d3v/)
+&rarr; [Instagram](https://instagram.com/leftomash/)
 
 &rarr; [itch.io](https://a5taroth.itch.io/)
